@@ -1,0 +1,10 @@
+2017-04-20 10:18:05,804 - recon - DEBUG - Starting program...
+2017-04-20 10:18:05,804 - robots - DEBUG - trying to get robots.txt
+2017-04-20 10:18:05,883 - recon - DEBUG - Creating emails
+2017-04-20 10:18:05,889 - recon - DEBUG - Getting sub-domains and IPs
+2017-04-20 10:18:06,019 - recon - INFO - Port Scanning
+2017-04-20 10:18:06,038 - port_scanner - DEBUG - port: 0 --> CLOSED 
+2017-04-20 10:18:07,040 - port_scanner - DEBUG - port: 1 --> CLOSED 
+2017-04-20 10:18:07,041 - recon - INFO - Ping Scanning
+2017-04-20 10:18:21,247 - ping_scan - DEBUG - dst ip is 10.0.0.4
+2017-04-20 10:18:21,248 - ping_scan - DEBUG - 10.0.0.138 online

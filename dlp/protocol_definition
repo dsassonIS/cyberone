@@ -1,0 +1,42 @@
+
+need to add
+connection start and end
+
+
+Client             Server
+
+        path to steal
+       <--------------
+
+        number of files
+       -------------->
+
+             OK
+       <--------------
+
+       File1 part 1
+       --------------->
+       File1 part 2
+       --------------->
+       File1 part 3
+       --------------->
+       File1 part 4
+       --------------->
+             End
+       --------------->
+             OK
+       <---------------
+
+
+       File2 part 1
+       --------------->
+       File2 part 2
+       --------------->
+       File2 part 3
+       --------------->
+       File2 part 4
+       --------------->
+             End
+       --------------->
+             OK
+       <---------------
